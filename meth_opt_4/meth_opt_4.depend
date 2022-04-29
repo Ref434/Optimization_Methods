@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650354150 source:c:\meth_opt\meth_opt_4\main.cpp
+	<iostream>
+	"task.h"
+
+1650354015 c:\meth_opt\meth_opt_4\task.h
+	<vector>
+	<iostream>
+	<math.h>
+	<algorithm>
+	<string>
+
+1650354530 source:c:\meth_opt\meth_opt_4\task.cpp
+	"task.h"
+
